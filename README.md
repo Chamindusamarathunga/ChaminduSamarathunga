@@ -2,8 +2,8 @@
 <h1 align="center">Hy 👋, I'm Chamindu Samarathunga [mr.chamma]</h1>
 <h3 align="center">Passionate Cybersecurity Student | SOC | InfoSec Compliance | Exploring Ethical Hacking & Digital Security</h3>
 <p align="center"> <em>
-   A Second Year Undergraduate From <a href="https://cinec.edu/" target="_blank"> <b>CINEC CAMPUS</b>, Sri-Lanka</a>. <br>
-   a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+   A Second Year Undergraduate From <a href="https://cinec.edu/" target="_blank"> CINEC CAMPUS, Sri-Lanka</a>. <br>
+   a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Cybersecurity Student&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
    with <b>Ethical HAcking</b> and always looking to find patterns of which are hidden in the data 
    </em> 
    <br>
