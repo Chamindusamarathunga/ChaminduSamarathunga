@@ -63,6 +63,7 @@
    <a href="https://www.facebook.com/share/1C24ptnw2m/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
    <a href="https://open.spotify.com/user/chamindusamarathunga" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+   <a href="#" target="_blank"><img src=" https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 </div>
 
 <Br><Br>
