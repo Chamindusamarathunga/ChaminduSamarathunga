@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 150px></p>
+<h1 align="center">Hy 👋, I'm Chamindu Samarathunga [mr.chamma]</h1>
+<h3 align="center">Passionate Cybersecurity Student | Exploring the Boundless World of Ethical Hacking and Digital Security</h3>
 
-<!--
-**Chamindusamarathunga/ChaminduSamarathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <em>
+   A <b>First Year</b> Undergraduate From <a href="https://cinec.edu/" target="_blank"> <b>CINEC CAMPUS</b>, Sri-Lanka</a>. <br>
+   <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+   with <b>Ethical HAcking</b> and always looking to find patterns of which are hidden in the data 
+   </em> 
+   <br>
+   Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ameeshaheshan&label=Profile%20views&color=brightgreen&style=flat" alt="ameeshaheshan" /> 
+  <img src="https://img.shields.io/badge/Age-21-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
