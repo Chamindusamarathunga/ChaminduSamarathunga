@@ -21,19 +21,19 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="70%" align="left">
   
 - 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
 
-- 🧑‍🎓 I’m an Undergraduate at **CINEC CAMPUS**
+- 📚 I’m an Undergraduate at CINEC CAMPUS, Sri Lanaka
 
-- 💬 Ask me about **Web Application Penetration Testing**
+- 📊 Information Security Compliance
 
 - 🧩 Expertise **Bug Bounty Hunting & Network Security**
 
-- 📫 How to reach me **ameeshaheshan251@gmail.com**
+- 📫 How to reach me **chamichamindu@mail.com**
   
-- ⚡ Fun fact **Call me as NOVA EXZZR**
+- ⚡ Fun fact **Call me as mr.camma**
 
 </td>
 <td width="50%" align="center">
