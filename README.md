@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=mr%2Echamma&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=00eaff&desc=Passionate%20Cybersecurity%20Student%20%7C%20SOC%20%7C%20InfoSec%20%7C%20Ethical%20Hacking&descAlignY=51&descSize=18" width="100%"/>
-
-</div>
-
-
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 300px></p>
 <h1 align="center">Hy 👋, I'm Chamindu Samarathunga </h1>
 <h3 align="center">Passionate Cybersecurity Student | SOC | InfoSec Compliance | Exploring Ethical Hacking & Digital Security</h3>
