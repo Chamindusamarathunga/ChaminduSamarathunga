@@ -21,9 +21,9 @@
 
 <table align="center">
 <tr border="none">
-<td width="70%" align="left">
+<td width="50%" align="left">
   
-- 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
+- 🎯 Currently learning **Cybersecurity, Ethical Hacking, Inforsec**
 
 - 📚 I’m an Undergraduate at CINEC CAMPUS, Sri Lanaka
 
