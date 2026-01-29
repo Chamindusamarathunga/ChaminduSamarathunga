@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mr%20chamma&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&descAlignY=51&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=NOVA%20EXZZR&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=00eaff&desc=Cybersecurity%20Specialist%20%7C%20Ethical%20Hacker&descAlignY=51&descSize=18" width="100%"/>
+
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameesha+Heshan;Penetration+Tester+%7C+Bug+Bounty+Hunter;Securing+the+Digital+World+%F0%9F%94%90" alt="Typing SVG" /></a>
