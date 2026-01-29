@@ -21,7 +21,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="60%" align="left">
+<td width="50%" align="left">
   
 - 🎯 Currently learning **Cybersecurity & Ethical Hacking**
 
