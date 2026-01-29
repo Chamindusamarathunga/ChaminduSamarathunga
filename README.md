@@ -48,7 +48,7 @@
 
    <td width="50%" align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeshaheshan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindusamarathunga&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
 
    </td>
   </tr>
