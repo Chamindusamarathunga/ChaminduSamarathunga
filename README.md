@@ -56,7 +56,7 @@
 
 
 <div align="center">
-   <i>Follow Me Around :</i><br>
+   <b>Follow Me Around :</b><br>
 
    <a href="www.linkedin.com/in/chamindu-samarathunga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.instagram.com/_mr.chamma_?igsh=cmlnZDBnY3NndHl2&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
