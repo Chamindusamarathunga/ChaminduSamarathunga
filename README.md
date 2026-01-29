@@ -17,36 +17,3 @@
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
-
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🎯 Currently learning **Cybersecurity & Ethical Hacking**
-
-- 📚 I’m an Undergraduate at CINEC CAMPUS, Sri Lanaka
-
-- 📊 Information Security Compliance
-
-- 🧩 Expertise **Bug Bounty Hunting & Network Security**
-
-- 📫 How to reach me **chamichamindu@mail.com**
-  
-- ⚡ Fun fact **Call me as mr.camma**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width=60%>
-
-  
-  </td>
-</tr>
-</table>
-
-
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="left">
-
