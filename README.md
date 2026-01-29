@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width = 350px></p>
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 350px></p>
 <h1 align="center">Hy 👋, I'm Chamindu Samarathunga [mr.chamma]</h1>
 <h3 align="center">Passionate Cybersecurity Student | Exploring the Boundless World of Ethical Hacking and Digital Security</h3>
 
