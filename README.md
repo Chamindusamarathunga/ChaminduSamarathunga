@@ -1,9 +1,7 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Chamindu%20Samarathunga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20SOC%20%7C%20InfoSec%20Researcher&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=560&lines=Cybersecurity+Student+%F0%9F%8E%93;Information+Security+Researcher+%F0%9F%94%8D;Security+Operation+Center+(SOC)+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+in+Progress+%F0%9F%92%BB;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FFFFFF&background=203A4300&center=true&vCenter=true&width=560&lines=Cybersecurity+Student+%F0%9F%8E%93;Information+Security+Researcher+%F0%9F%94%8D;Security+Operation+Center+(SOC)+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+in+Progress+%F0%9F%92%BB;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-samarathunga/)
@@ -74,23 +72,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamindusamarathunga&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![InputGuardian](https://github-readme-stats.vercel.app/api/pin/?username=Chamindusamarathunga&repo=InputGuardian&theme=tokyonight&hide_border=true)](https://github.com/Chamindusamarathunga/InputGuardian)
-[![ML-Based-XSS-Honeypot](https://github-readme-stats.vercel.app/api/pin/?username=Chamindusamarathunga&repo=ML-Based-XSS-Honeypot&theme=tokyonight&hide_border=true)](https://github.com/Chamindusamarathunga/ML-Based-XSS-Honeypot)
-
-</div>
-
-- 🛡️ **[InputGuardian](https://github.com/Chamindusamarathunga/InputGuardian)** — A teen-safe cybersecurity tool for monitoring computer input in a controlled environment, helping parents and students review activity safely.
-- 🤖 **[ML-Based XSS Honeypot](https://github.com/Chamindusamarathunga/ML-Based-XSS-Honeypot)** — A hybrid Machine Learning + keyword/regex detection system for identifying reflected & stored XSS attacks, with attack monitoring and threat analysis.
-
-<br/>
-
-<div align="center">
 
 ### 📫 Let's Connect
 
