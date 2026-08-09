@@ -1,67 +1,103 @@
-<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 300px></p>
-<h1 align="center">Hy 👋, I'm Chamindu Samarathunga </h1>
-<h3 align="center">Passionate Cybersecurity Student | SOC | InfoSec Compliance | Exploring Ethical Hacking & Digital Security</h3>
-<p align="center"> <em>
-   A Second Year Undergraduate From <a href="https://www.cinec.edu/" target="_blank"> CINEC CAMPUS, Sri-Lanka</a>. <br>
-   a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a Cybersecurity Student&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is obsessed
-   with Ethical HAcking and always looking to find patterns of which are hidden in the data 
-   </em> 
-   <br>
-   Thought : Life is full of choices. An ethical hacker chooses curiosity over chaos..!</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=chamindusamarathunga&label=Profile%20views&color=brightgreen&style=flat" alt="chamindusamarathunga" /> 
-  <img src="https://img.shields.io/badge/Age-24-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Chamindu%20Samarathunga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20SOC%20%7C%20InfoSec%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=560&lines=Cybersecurity+Student+%F0%9F%8E%93;Information+Security+Researcher+%F0%9F%94%8D;Security+Operation+Center+(SOC)+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+in+Progress+%F0%9F%92%BB;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
-### 🛠 &nbsp;Tech Stack
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-samarathunga/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.chamma_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chamindu.kawshik)
 
+</div>
 
+<br/>
 
-   </td>
+## 👋 About Me
 
-   <td width="50%" align="center">
+- 🎓 Second-Year Undergraduate at **[CINEC Campus, Sri Lanka](https://www.cinec.edu/)**
+- 🔐 Focused on **Cybersecurity**, **SOC Operations**, and **InfoSec Compliance**
+- 🕵️ Passionate about **Ethical Hacking** and finding hidden patterns in data
+- 🌱 Currently exploring **ML-based threat detection** and **XSS defense systems**
+- 📍 Based in Wattala, Sri Lanka
+- 💬 *"Life is full of choices. An ethical hacker chooses curiosity over chaos."*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeshaheshan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
+<br/>
 
-   </td>
-  </tr>
-</table>
-
+## 🛠️ Tech Stack
 
 <div align="center">
-   <b>Follow Me Around :</b><br>
 
-   <a href="www.linkedin.com/in/chamindu-samarathunga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.instagram.com/_mr.chamma_?igsh=cmlnZDBnY3NndHl2&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.facebook.com/share/1C24ptnw2m/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
 </div>
-<Br><Br>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chamindusamarathunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Chamindusamarathunga&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindusamarathunga&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamindusamarathunga&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![InputGuardian](https://github-readme-stats.vercel.app/api/pin/?username=Chamindusamarathunga&repo=InputGuardian&theme=tokyonight&hide_border=true)](https://github.com/Chamindusamarathunga/InputGuardian)
+[![ML-Based-XSS-Honeypot](https://github-readme-stats.vercel.app/api/pin/?username=Chamindusamarathunga&repo=ML-Based-XSS-Honeypot&theme=tokyonight&hide_border=true)](https://github.com/Chamindusamarathunga/ML-Based-XSS-Honeypot)
+
+</div>
+
+- 🛡️ **[InputGuardian](https://github.com/Chamindusamarathunga/InputGuardian)** — A teen-safe cybersecurity tool for monitoring computer input in a controlled environment, helping parents and students review activity safely.
+- 🤖 **[ML-Based XSS Honeypot](https://github.com/Chamindusamarathunga/ML-Based-XSS-Honeypot)** — A hybrid Machine Learning + keyword/regex detection system for identifying reflected & stored XSS attacks, with attack monitoring and threat analysis.
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-samarathunga/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.chamma_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/chamindu.kawshik)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
