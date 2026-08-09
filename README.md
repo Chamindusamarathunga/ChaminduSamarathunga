@@ -72,6 +72,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamindusamarathunga&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+</div>
+
+<br/>
+
 <div align="center"
 
 ### 📫 Let's Connect
